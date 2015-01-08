@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		34AD3DE51A3126D8000D1899 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34AD3DE41A3126D8000D1899 /* main.cpp */; };
+		34EBF5011A5F22B1005E102B /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34EBF5001A5F22B1005E102B /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		34AD3DE11A3126D8000D1899 /* proj4 */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; includeInIndex = 0; path = proj4; sourceTree = BUILT_PRODUCTS_DIR; };
-		34AD3DE41A3126D8000D1899 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		34EBF5001A5F22B1005E102B /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		34AD3DE31A3126D8000D1899 /* proj4 */ = {
 			isa = PBXGroup;
 			children = (
-				34AD3DE41A3126D8000D1899 /* main.cpp */,
+				34EBF5001A5F22B1005E102B /* main.cpp */,
 			);
 			path = proj4;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				34AD3DE51A3126D8000D1899 /* main.cpp in Sources */,
+				34EBF5011A5F22B1005E102B /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -232,6 +232,7 @@
 				34AD3DEA1A3126D8000D1899 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
